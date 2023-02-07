@@ -12,7 +12,7 @@ This submission form is made available to collect the necessary information on d
 
 The submission form is a web application (webapp) built using [Next.js](https://nextjs.org/) as a React Framework and deployed using [Vercel](https://vercel.com/). 
 
-The forms are [Data Driven Forms](https://data-driven-forms.org/), configured through this JSON schema: [schema.js](schemas/schema.js).
+The forms are [Data Driven Forms](https://data-driven-forms.org/), configured through this JSON schema: [schema.js](https://json-schema.org).
 
 ## Bugs
 
